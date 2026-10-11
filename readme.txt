@@ -1,5 +1,5 @@
 Name:            Sunaina
-Student number:  STUDENT_NUMBER
+Student number:  240386
 
 Project: Image Object Identification System on AWS using YOLOv5, Lambda, API Gateway and Amazon S3
 
