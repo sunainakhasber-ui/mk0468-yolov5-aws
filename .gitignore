@@ -1,0 +1,12 @@
+# local tooling and generated deliverables (submitted separately)
+.playwright-mcp/
+__pycache__/
+*.code-workspace
+bundle.zip
+assessment.docx
+Rubrics.docx
+Report_*.docx
+SourceCode_*.docx
+Presentation_*.pptx
+report/
+~$*
